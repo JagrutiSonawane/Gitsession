@@ -1,0 +1,2 @@
+# Gitsession
+Information about git
